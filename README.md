@@ -22,13 +22,11 @@
 
   <h2 align="center">Social Media</h2>
   <div
+  <p>Feel free to contact me to ask questions, seek advice, or share your knowledge!</p>
     <a href = "mailto: brunosen4s@gmail.com">
-     <img align="center" width="50" height="50" src="https://img.icons8.com/color/48/gmail--v1.png" alt="gmail--v1">
-    </a>
-        <a href = "mailto: brunosen4s@gmail.com">
-         <img align="center" width="50" height="50" src="https://img.icons8.com/color/48/gmail--v1.png" alt="gmail--v1">
+         <img align="center" width="49" height="49" src="https://img.icons8.com/color/49/gmail--v1.png" alt="gmail--v1">
     </a>
     <a href = "https://www.linkedin.com/in/brunosen4/">
-         <img align="center" height="45" width="45" alt="linkedin-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+         <img align="center" height="44" width="44" alt="linkedin-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
     </a>
 </div>
