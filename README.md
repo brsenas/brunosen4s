@@ -11,7 +11,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h2 align="center">Technologies</h2>
+    <h1 align="center">Technologies</h1>
     <p>My usual technologies, aways learning something new.</p>
     <img align="center" height="45" width="45" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="45" width="45" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -20,13 +20,13 @@
    </div>
     
 
-  <h2 align="center">Social Media</h2>
+  <h1 align="center">Social Media</h1>
   <div
   <p>Feel free to contact me to ask questions, seek advice, or share your knowledge!</p>
     <a href = "mailto: brunosen4s@gmail.com">
-         <img align="center" width="49" height="49" src="https://img.icons8.com/color/49/gmail--v1.png" alt="gmail--v1">
+        <img align="center" width="49" height="49" src="https://img.icons8.com/3d-fluency/94/gmail.png" alt="gmail"/>
     </a>
     <a href = "https://www.linkedin.com/in/brunosen4/">
-         <img align="center" height="44" width="44" alt="linkedin-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+         <img align="center" height="45" width="45"  alt="linedin-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
     </a>
 </div>
