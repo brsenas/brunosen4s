@@ -1,28 +1,20 @@
-# Hi, I'm Bruno Sena 🧑🏻‍💻
-<p>Welcome to my GitHub!</p>
+## Hi, I'm Bruno Sena 🧑🏻‍💻
+<p>I'm Bachelor's degree in Information Systems at FIAP and currently, I work as an IT Portfolio Management intern at Itaú Unibanco, where I am part of the team that supports the optimization of strategic projects for the largest bank in Latin America.  
 
-<div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=brunosen4s&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosen4s&layout=compact&langs_count=16&theme=dark"/>
-</div>
-<br>
-<div  align="center"> 
+I'm passionate about technology, data, and analytics, always eager to learn and apply innovative solutions to real-world challenges.</p>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Technologies</h1>
-    <p>My usual technologies, aways learning something new.</p>
-    <img align="center" height="45" width="45" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="45" width="45" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     <img align="center" height="45" width="45" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     <img align="center" height="45" width="45" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   </div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="60"/>         
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+</p>
     
 
-  <h1 align="center">Social Media</h1>
+  ## Medias
   <div
-  <p>Feel free to contact me to ask questions, seek advice, or share your knowledge!</p>
+  <p>Feel free to contact me to ask questions or share your knowledge!</p>
     <a href = "mailto: brunosen4s@gmail.com">
         <img align="center" width="49" height="49" src="https://img.icons8.com/3d-fluency/94/gmail.png" alt="gmail"/>
     </a>
